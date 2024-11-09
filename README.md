@@ -4,5 +4,4 @@ Para executar use o comando : **k3d cluster create meucluster --servers 1 --agen
 
 Depois e so acessar :  **localhost:8080/api/v1**
 # kubernetes-api-kd3
-# kubernetes-api-kd3
-# kubernetes-api-kd3
+
